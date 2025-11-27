@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1{
+	color: darkgreen;
+	font-size: 40px;
+	font-weight: normal;
+	font-family: "Times New Roman", Arial, Helvetica;
+}
+
+h2{
+	color: skyblue;
+	font-weight: bolt;
+	font-family: Calibri, Arial, Helvetica;
+}
+
+p{
+	color: green;
+	font-weight: 400;
+	background:rgba(220, 205, 38, 0.2);
+}
+
+	a{
+	color: green;
+	font-weight: bolt;
+	font-family: Calibri, Arial, Helvetica;
+
+}
+
+
+iframe{
+	border: 3px solid darkred;
+/*	padding: 30px;
+	margin: 50px auto; */
+/*	float: left; */
+	margin: auto;
+
+}
+
+img{
+	border: 3px solid darkred;
+/*	padding: 30px;
+	margin: 50px auto; */
+/*	float: left; */
+	margin: auto;
+
+}
+
+
+
